@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_nabi_adam"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Adam AS" />
+
+    <item
+        android:id="@+id/menu_nabi_idris"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Idris AS" />
+
+    <item
+        android:id="@+id/menu_nabi_nuh"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Nuh AS" />
+
+    <item
+        android:id="@+id/menu_nabi_hud"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Hud AS" />
+
+    <item
+        android:id="@+id/menu_nabi_shalih"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Shalih AS" />
+
+    <item
+        android:id="@+id/menu_nabi_ibrahim"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Ibrahim AS" />
+
+    <item
+        android:id="@+id/menu_nabi_luth"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Luth AS" />
+
+    <item
+        android:id="@+id/menu_nabi_ismail"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Ismail AS" />
+
+    <item
+        android:id="@+id/menu_nabi_ishaq"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Ishaq AS" />
+
+    <item
+        android:id="@+id/menu_nabi_yaqub"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Ya'qub AS" />
+
+    <item
+        android:id="@+id/menu_nabi_yusuf"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Yusuf AS" />
+
+    <item
+        android:id="@+id/menu_nabi_ayyub"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Ayyub AS" />
+
+    <item
+        android:id="@+id/menu_nabi_syuaib"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Syuaib" />
+
+    <item
+        android:id="@+id/menu_nabi_musa"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Musa AS" />
+
+    <item
+        android:id="@+id/menu_nabi_harun"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Harun AS" />
+
+    <item
+        android:id="@+id/menu_nabi_dzulkifli"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Dzulkifli AS" />
+
+    <item
+        android:id="@+id/menu_nabi_daud"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Daud" />
+
+    <item
+        android:id="@+id/menu_nabi_sulaiman"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Sulaiman AS" />
+
+    <item
+        android:id="@+id/menu_nabi_ilyas"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Ilyas AS" />
+
+    <item
+        android:id="@+id/menu_nabi_ilyasa"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Ilyasa AS" />
+
+    <item
+        android:id="@+id/menu_nabi_yunus"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Yunus AS" />
+
+    <item
+        android:id="@+id/menu_nabi_zakaria"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Zakaria AS" />
+
+    <item
+        android:id="@+id/menu_nabi_yahya"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Yahya AS" />
+
+    <item
+        android:id="@+id/menu_nabi_isa"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Isa AS" />
+
+    <item
+        android:id="@+id/menu_nabi_muhammad"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Nabi Muhammad SAW" />
+
+</menu>

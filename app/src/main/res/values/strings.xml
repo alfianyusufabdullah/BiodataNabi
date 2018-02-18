@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Biodata Nabi</string>
+    <string name="usia">Usia %s</string>
+    <string name="periode">Periode %s</string>
+</resources>
